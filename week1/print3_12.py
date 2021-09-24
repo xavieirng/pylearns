@@ -1,5 +1,0 @@
-print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
-print("苍茫大地一剑尽挽破")
-print("何处繁华笙歌落")
-print("斜依云端千壶掩寂寞")
-print("苍茫大地一剑尽挽破")
