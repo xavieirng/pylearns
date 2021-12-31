@@ -1,25 +1,9 @@
-
-
-""""
-//
-/
-%
-**
-*
-
-
-"""
-
-#串定义
-"""
-str ='aaa'  str="aaa"  
-str='''aaaa'''
-"""
-
-str="nihao"
-
-str[:-2]
-
-print(str[:-2])
-print(str[-1:0:-2])
-#  niha
+import turtle
+turtle.begin_fill()
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+turtle.mainloop()
